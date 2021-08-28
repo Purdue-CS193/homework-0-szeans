@@ -1,4 +1,4 @@
-# CS 193 Homework 0
+# Sean's First CS193 Homework
 - Access to upperclassmen with superior experience and knowledge
 - Provides a way to learn practical skills
 - Connect with fellow classmates in CS/DS
